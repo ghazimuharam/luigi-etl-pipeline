@@ -6,6 +6,8 @@ Luigi ETL Pipeline running demo
 
 ![run_luigi](https://user-images.githubusercontent.com/22569688/114757241-cd916080-9d85-11eb-95b8-4cabbaa40ad2.gif)
 
+Dwonload [SQlite database](https://drive.google.com/file/d/1qcE6Y_ir2wPi4L6koie0szZRXDodQBlf/view?usp=sharing) result
+
 ## Installation
 
 Use git to clone this repository
