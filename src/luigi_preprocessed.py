@@ -5,8 +5,7 @@ import pandas as pd
 import time
 import json
 
-year, month, day = map(str, time.strftime("%Y %m %d").split())
-timestamp = year+""+month+""+day
+timestamp = time.strftime("%Y%m%d")
 
 
 class ChinookData(luigi.Task):
